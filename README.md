@@ -69,17 +69,17 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ### Developed by: JAYAVARSHA T
 ### RegisterNumber: 212223040075
  
-**Logic symbol & Truthtable**
+### Logic symbol & Truthtable
 ![image](https://github.com/jayavarsha23219/study-of-basic-gates/assets/150780319/c7020dc4-3a7a-41c1-89af-1896789571a0)
 
-**RTL realization Output:** 
+### RTL realization Output:
 ![image](https://github.com/jayavarsha23219/study-of-basic-gates/assets/150780319/2f3ceb41-337d-4343-8021-415ba7c481a9)
 
 
-**RTL**
+### RTL
 ![image](https://github.com/jayavarsha23219/study-of-basic-gates/assets/150780319/caa640ff-3a52-4f5b-a3a5-2aa810843e0f)
 
-**Result:**
+### Result:
 ![image](https://github.com/jayavarsha23219/study-of-basic-gates/assets/150780319/5e555969-6673-42f1-b62c-23a20c9e76c2)
 
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
